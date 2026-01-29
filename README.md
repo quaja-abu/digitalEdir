@@ -1,4 +1,4 @@
-# Digital Edir - No One Greieves Alone Anymore
+# Digital Edir - No One Grieves Alone Anymore
 
 ![Digital Edir Banner](assets/images/banner.png)
 
